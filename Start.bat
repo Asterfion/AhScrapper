@@ -1,8 +1,8 @@
 @echo off
-title Custodia-Detector by @Asterfion - Version 1.0
+title AhScrapper by @Asterfion and @JohnEdgarHoover - Version 1.0
 echo.
-echo By @Asterfion - Version 1.0
-echo Github: https://github.com/Asterfion
+echo AhScrapper by @Asterfion and @JohnEdgarHoover - Version 1.0
+echo Github: https://github.com/Asterfion - https://github.com/JohnEdgarHoover
 echo Thanks for using my tools!
 echo.
 echo ----------------------------------------------
