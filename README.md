@@ -1,6 +1,6 @@
 AhScrapper | Asterfion X Hades
 
-AhScrapper – The ultimate scrapper for Guns.lol, designed to optimize your gameplay experience. Created by the talented duo @Asterfion and @Hades.
+AhScrapper – The ultimate scrapper for Guns.lol, designed to optimize your gameplay experience. Created by the talented duo @Asterfion and @JohnEdgarHoover.
 
 **The tool:**
 ![image](https://github.com/user-attachments/assets/bcdf6a10-46ac-4413-a4ac-a03cb03b30c0)
@@ -49,4 +49,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Acknowledgements
 
-Thanks to the Guns.lol community and everyone who supports our work. Special shoutout to @Asterfion and @Hades for their relentless dedication.
+Thanks to the Guns.lol community and everyone who supports our work. Special shoutout to @Asterfion and @JohnEdgarHoover for their relentless dedication.
